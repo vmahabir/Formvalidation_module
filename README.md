@@ -44,7 +44,7 @@ the *showError* function checks if an error is necessary.
 The *validate* function starts off by validating all the necessary elements which are used to validate input and error elements in the HTML. After that, checks if the input fields are filled. the element *emailField* is also checked on regular expressions.
 Then the amount of errors and the *validateOnKey* will be checked if it is true or false.
 
-**validator.init** is a loop if there is a value been typed in and starts validating when keys are being pressed.
+**validator.init** is a loop that checks if there is a value been typed in and starts validating when keys are being pressed.
 
 
 
