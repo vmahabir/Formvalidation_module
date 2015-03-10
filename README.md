@@ -8,7 +8,7 @@ Set up a form. Check out the HTML file that is included in this repo.
 ####CSS
 Set up a CSS stylesheet. I have a basic stylesheet included in the repo.
 
-Assuming you are using the form.html file all of the elements already has been implemented. If not, it's important to connect your CSS file & connect your javascript with the HTML file like so:
+Assuming you are using the form.html file all of the elements have been implemented. If not, it's important to connect your CSS file & connect your javascript with the HTML file like so:
 
 
     <link rel="stylesheet" href="css/style.css">
